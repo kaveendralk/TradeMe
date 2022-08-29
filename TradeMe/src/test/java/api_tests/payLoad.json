@@ -1,0 +1,28 @@
+{
+  "ListingRequest": {
+    "Category": 3849,
+    "Title": "Arty surprise",
+    "Description": {
+      "Paragraph": "All true art lovers will buy this."
+    },
+    "StartPrice": 7,
+    "BuyNowPrice": 9,
+    "Duration": "Seven",
+    "Pickup": "Allow",
+    "IsBrandNew": true,
+    "PhotoIds": {
+      "PhotoId": 12345678
+    },
+    "ShippingOptions": {
+      "ShippingOption": {
+        "Type": "Free"
+      }
+    },
+    "PaymentMethods": {
+      "PaymentMethod": [
+        "CreditCard",
+        "Cash"
+      ]
+    }
+  }
+}
